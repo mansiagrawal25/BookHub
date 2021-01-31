@@ -30,7 +30,7 @@ source env/bin/activate
 ### Clone the repository and install required packages
 
 ```
-git clone https://github.com/yashaswi2311/the-book-hub.git
+git clone https://github.com/mansiagrawal25/BookHub.git
 cd the-book-hub
 pip3 install -r requirements.txt
 Run Python app.py on command line
